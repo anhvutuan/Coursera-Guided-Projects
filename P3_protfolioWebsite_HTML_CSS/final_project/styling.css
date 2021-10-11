@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: pink;
+}
+
+table, th, td {
+  text-align: center;
+  border: 1px solid black;
+}
+
+b {
+  text-decoration: underline;
+}

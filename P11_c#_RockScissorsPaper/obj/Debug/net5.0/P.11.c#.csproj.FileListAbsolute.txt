@@ -1,0 +1,16 @@
+C:\Users\amoon\Desktop\P.11.c#\bin\Debug\net5.0\P.11.c#.exe
+c:\Users\amoon\Desktop\P.11.c#\bin\Debug\net5.0\P.11.c#.deps.json
+c:\Users\amoon\Desktop\P.11.c#\bin\Debug\net5.0\P.11.c#.runtimeconfig.json
+c:\Users\amoon\Desktop\P.11.c#\bin\Debug\net5.0\P.11.c#.runtimeconfig.dev.json
+C:\Users\amoon\Desktop\P.11.c#\bin\Debug\net5.0\P.11.c#.dll
+c:\Users\amoon\Desktop\P.11.c#\bin\Debug\net5.0\ref\P.11.c#.dll
+C:\Users\amoon\Desktop\P.11.c#\bin\Debug\net5.0\P.11.c#.pdb
+C:\Users\amoon\Desktop\P.11.c#\obj\Debug\net5.0\P.11.c#.csproj.AssemblyReference.cache
+C:\Users\amoon\Desktop\P.11.c#\obj\Debug\net5.0\P.11.c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amoon\Desktop\P.11.c#\obj\Debug\net5.0\P.11.c#.AssemblyInfoInputs.cache
+C:\Users\amoon\Desktop\P.11.c#\obj\Debug\net5.0\P.11.c#.AssemblyInfo.cs
+C:\Users\amoon\Desktop\P.11.c#\obj\Debug\net5.0\P.11.c#.csproj.CoreCompileInputs.cache
+C:\Users\amoon\Desktop\P.11.c#\obj\Debug\net5.0\P.11.c#.dll
+C:\Users\amoon\Desktop\P.11.c#\obj\Debug\net5.0\ref\P.11.c#.dll
+C:\Users\amoon\Desktop\P.11.c#\obj\Debug\net5.0\P.11.c#.pdb
+c:\Users\amoon\Desktop\P.11.c#\obj\Debug\net5.0\P.11.c#.genruntimeconfig.cache
